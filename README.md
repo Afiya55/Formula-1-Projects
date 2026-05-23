@@ -7,10 +7,15 @@ This is a beginner Python Formula 1 strategy simulator inspired by real Ferrari 
 This interactive terminal game generates dynamic race scenarios using:
 
 🌧️ Weather conditions
+
 🚨 Safety Cars
+
 🛞 Tyre compounds & degradation
+
 🏁 Remaining laps
+
 📻 Team radio messages
+
 🌍 Different F1 tracks
 
 Your job is to make the perfect strategy call:
