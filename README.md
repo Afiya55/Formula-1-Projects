@@ -1,4 +1,4 @@
-#race-strategy-decision-game
+#Ferrari-Strategy-Game
 
 🏎️ Ferrari Strategy Decision Game
 
