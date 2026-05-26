@@ -21,7 +21,9 @@ This interactive terminal game generates dynamic race scenarios using:
 Your job is to make the perfect strategy call:
 
 👉 Pit
+
 OR
+
 👉 Stay Out
 
 The game evaluates your decisions based on realistic race conditions while tracking your score, streak, and round progression.
